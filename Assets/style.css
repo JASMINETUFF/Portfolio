@@ -4,72 +4,6 @@ body, html {
   height: 100%;
 }
 
-/* The hero image
-.hero-image {
-/* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-/* background-image:url("/hero.gif"); */
-
-/* Set a specific height */
-/* height: 100vh; */
-
-/* Position and center the image to scale nicely on all screens */
-/* background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-position: relative;
-} */
-
-/* Place text in the middle of the image */
-/* .hero-text {
-text-align: center;
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-color: white;
-} */ 
-/* 
-h1 {
-font-weight: bold;
-color: #fff;
-font-size: 32px;
-}
-
-html{
-    font-family: 'Yuji Syuku', serif;
-}
-
-
-#navEdit{
-  background: white;  }
-body, html {
-  height: 100%;
-}
-
-/* The hero image */
-/* .hero-image {
-/* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-/* background-image:url("hero.gif"); */
-
-/* Set a specific height */
-/* height: 100vh; */
-
-/* Position and center the image to scale nicely on all screens */
-/* background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-position: relative;
-} */
-
-/* Place text in the middle of the image */
-/* .hero-text {
-text-align: center;
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-color: white;
-} */ 
 h1 {
 font-weight: bold;
 color: cornflowerblue;
@@ -84,7 +18,7 @@ h3 {
 }
 #sut {
   max-width: 100%;
-  height: 30%;
+  height: 0%;
   background-size:contain;
   background-repeat: repeat-x;
 }
